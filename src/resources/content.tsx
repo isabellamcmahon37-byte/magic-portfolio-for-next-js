@@ -2,7 +2,7 @@ import { About, Blog, Gallery, Home, Newsletter, Person, Social, Work } from "@/
 import { Line, Row, Text } from "@once-ui-system/core";
 
 const person: Person = {
-  firstName: "Isabella",
+  firstName: "Isabella G",
   lastName: "McMahon",
   name: `Isabella McMahon`,
   role: "Chemical Engineer",
